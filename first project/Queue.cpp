@@ -1,5 +1,5 @@
 #include "Queue.h"
-#include <iostream>
+#include <stdio.h>
 
 void initQueue(Queue* q, unsigned int size)
 {
